@@ -1,6 +1,8 @@
 # Inventory-Management-System
 Inventory Management System is a user-friendly and highly functional Excel-based tool designed to manage and monitor forex currency inventory. It allows businesses and individuals to track opening balances, purchases, sales, and current stock levels across multiple currencies and denominations — all in one place.
 
+![Image](https://github.com/user-attachments/assets/ef6f7468-d530-4fa3-96c2-f38502e8fe9f)
+
 # 📌 Key Features
 ## Multi-Currency & Denomination Support
 - Track inventory for various currencies and their denominations in detail.
@@ -19,6 +21,8 @@ Inventory Management System is a user-friendly and highly functional Excel-based
 
     Closing Cash Balance (per currency & denomination)
 
+![Image](https://github.com/user-attachments/assets/9acf68aa-9143-4288-9a0a-bdca8ffec29b)
+
 ## Inventory Summary Dashboard
 - A consolidated view of:
 
@@ -32,6 +36,8 @@ Inventory Management System is a user-friendly and highly functional Excel-based
 
 ## Transaction Summary Dashboard
 - One-click overview of all purchase and sales activity across all currencies.
+
+![Image](https://github.com/user-attachments/assets/925fa597-10cc-422a-af02-c969f1f02985)
 
 ## Perfect for Forex Businesses
 - Ideal for money changers, forex dealers, or anyone who needs to monitor foreign currency stock and transactions precisely.
@@ -48,6 +54,8 @@ The sheet will automatically calculate the updated cash and denomination balance
 
 4) Analyze With Dashboards
 Use the summary pages to monitor inventory and transaction history at a glance.
+
+![Image](https://github.com/user-attachments/assets/69f2dfcf-5e11-4311-9693-4c58f53a4427)
 
 # 📊 Example Use Case
 Say you begin the day with:
@@ -69,6 +77,8 @@ The sheet will automatically:
 - Adjust denomination-level inventory
 
 - Show updated closing balance in both dashboards
+
+![Image](https://github.com/user-attachments/assets/ca8133ce-b1b6-45de-815e-958feaeb7d84)
 
 # 🧠 Why Use This?
 - Avoid manual tracking errors
